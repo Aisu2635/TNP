@@ -1,8 +1,6 @@
 # TNP
-```
-things covered in course
-```
+**things covered in course**
 
-+ [1] Basic Python
-+ [1] Datastructures in python
++ [yes] Basic Python
++ [yes] Datastructures in python
 + [] coming soon
