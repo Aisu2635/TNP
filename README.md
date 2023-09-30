@@ -3,4 +3,6 @@
 
 + [x] Basic Python
 + [x] Datastructures in python
-+ [ ] coming soon
++ [x] Functions
++ [] OOPS
++ [] coming soon
