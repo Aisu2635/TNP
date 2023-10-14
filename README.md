@@ -5,4 +5,5 @@
 + [x] Datastructures in python
 + [x] Functions
 + [x] OOPS
++ [x] Stack & Queue in python
 + [] coming soon
