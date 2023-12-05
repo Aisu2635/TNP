@@ -8,4 +8,6 @@
 + [x] Stack & Queue in python
 + [x] Linked List
 + [x] Trees & Graphs
-+ [] coming soon
+
+> December Algorithms
+
